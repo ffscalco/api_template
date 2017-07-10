@@ -1,6 +1,6 @@
 # chromie
 
-This project is a [Rails](http://rubyonrails.org/) API used to automatically send your working hours with just a quick set up.
+This project is a [Rails](http://rubyonrails.org/) API used to do SOMETHING.
 
 ## Dependencies
 
@@ -19,8 +19,8 @@ If you plan to **integrate** this project to Heroku, you'll need:
 ## Setup the project
 
 1. Install the dependencies above
-2. `$ git clone git@github.com:ffscalco/chromie-api.git chromie` - Clone the project
-3. `$ cd chromie` - Go into the project folder
+2. `$ git clone <<REPOSITORY_URL>> <<APP_NAME>>` - Clone the project
+3. `$ cd <<APP_NAME>>` - Go into the project folder
 4. `$ bin/setup` - Run the setup script
 5. `$ bin/rspec` - Run the specs to see if everything is working fine
 
