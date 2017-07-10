@@ -1,4 +1,4 @@
-# chromie
+# API_TEMPLATE
 
 This project is a [Rails](http://rubyonrails.org/) API used to do SOMETHING.
 
