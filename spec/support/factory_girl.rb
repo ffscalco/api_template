@@ -7,4 +7,6 @@ RSpec.configure do |config|
       DatabaseCleaner.clean
     end
   end
+
+  config.include FactoryGirl::Syntax::Methods
 end
